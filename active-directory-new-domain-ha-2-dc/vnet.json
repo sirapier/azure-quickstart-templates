@@ -8,6 +8,7 @@
         "West US",
         "East US",
         "West Europe",
+	"North Europe",
         "East Asia",
         "Southeast Asia"
       ],
@@ -26,7 +27,7 @@
       "metadata": {
         "Description": "The address range of the new VNET in CIDR format"
       },
-      "defaultValue": "10.0.0.0/16"
+      "defaultValue": "192.168.0.0/16"
     },
     "subnetName": {
       "type": "string",
@@ -39,7 +40,7 @@
       "metadata": {
         "Description": "The address range of the subnet created in the new VNET"
       },
-      "defaultValue": "10.0.0.0/24"
+      "defaultValue": "192.168.0.0/24"
     }
   },
   "resources": [

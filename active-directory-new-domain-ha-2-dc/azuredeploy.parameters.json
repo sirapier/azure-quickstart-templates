@@ -27,7 +27,7 @@
       "value": "mydomain.local"
     },
     "assetLocation": {
-      "value": "https://github.com/Azure/azure-quickstart-templates/raw/master/active-directory-new-domain-ha-2-dc/"
+      "value": "https://raw.githubusercontent.com/sirapier/azure-quickstart-templates/master/active-directory-new-domain-ha-2-dc/"
     }
   }
 }
